@@ -1,2 +1,2 @@
 # Simon-Game-
-WEB
+WEB Created using jQuery
